@@ -9,14 +9,14 @@ Soy un chico sencillo, con ideales simples y **un objetivo** 🫡
 - Mi nombre es Lucas
 - Soy de Perú
 - Estudio DAM con el objetivo de dedicarme a ello
-- Soy alguien dedicado a lo que hace o debe de hacer
+- Soy alguien dedicado a lo que debe hacer
 - Tengo un talento natural para muchísimas cosas
 
 ---
 ## Peculiaridades Mías 😉
-- Jugué para un equipo de vóleibol en mi país y participé en un par de competiciones.
-- Tengo una especie de trauma con el chocolate.
-- Tengo un **gran problema** con el orden de las cosas.
+- Soy alguien muy organizado y casi en exceso, debo cumplir con todos mis deberes al máximo
+- Me esfuerzo mucho para lograr algo nuevo cada día, estarse quieto no es una opción
+- Soy muy nuevo en el ambiente de las nuevas responsabilidades y visiones a futuro pero no les temo, las domaré una a una
 ---
 ## Habilidades 🐲
 
