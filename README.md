@@ -1,4 +1,4 @@
-# Lucas Barzola - Mi Mundo 😎
+# Lucas Barzola 
 
 Soy un chico sencillo, con ideales simples y **un objetivo** 🫡
 
@@ -7,9 +7,9 @@ Soy un chico sencillo, con ideales simples y **un objetivo** 🫡
 ## Sobre Mí
 
 - Mi nombre es Lucas
-- Soy Peruano
-- Me gustan los videojuegos y la música
-- Soy jugador semi-profesional de _SSBU_ ✨
+- Soy de Perú
+- Estudio DAM con el objetivo de dedicarme a ello
+- Soy alguien dedicado a lo que hace o debe de hacer
 - Tengo un talento natural para muchísimas cosas
 
 ---
@@ -20,15 +20,14 @@ Soy un chico sencillo, con ideales simples y **un objetivo** 🫡
 ---
 ## Habilidades 🐲
 
-|Habilidad|Nivel|Tiempo Practicado|
-|:-:|:-:|:-:|
-|Deportes|Medio-Alto|6 años|
-|Estudios|Medio-Bajo|1 año|
-|Videojuegos|Alto|11 años|
-|Paciencia|Muy Alta|4 años|
-|Razonamiento|Medio-Alto|Toda la vida|
-|Empatía|Muy Alta|4 años|
-|Humor|Roto|Indefinido|
+|Habilidades|Estado|
+|:-:|:-:|
+|HTML5|En aprendizaje|
+|JAVA|En aprendizaje|
+|Python|Básico Dominado|
+|C++|Pendiente|
+|Trabajo en Equipo|Dominado|
+|Organización|En desarrollo|
 
 ---
 
@@ -42,17 +41,17 @@ Soy un chico sencillo, con ideales simples y **un objetivo** 🫡
 
 ## Enlace Externo 😊
 
-Me gusta ver mucho anime y los veo en esta página:
+Últimamente realizo distintos cursos para extender mis aprendizajes, esta es la página:
 
-- https://www.crunchyroll.com
+- https://www.udemy.com
 
-Y también me gusta mucho la música y me la paso horas aqui:
+Y también leo distintos libros que me brinden mayor apoyo y fuentes importantes:
+
+- https://www.oreilly.com/online-learning/courses
+
+Al desarrollar mis objetivos me gusta mucho hacerlo acompañado de algún tramo musical que me guste:
 
 - https://open.spotify.com/intl-es
-
-Por último soy alguien que se entretiene con poco, jugando:
-
--https://www.nytimes.com/games/wordle/index.html?eafs_enabled=false
 
 ---
 
